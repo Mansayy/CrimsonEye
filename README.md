@@ -1,0 +1,1 @@
+This repository contains the code and resources for the final project in the CSGY-6513-D,Big Data class. The project helps to evaluate the crime data for the given region and therefore enable strategic resource deployment and proactive measures to reduce crime rates and enhance community safety.
